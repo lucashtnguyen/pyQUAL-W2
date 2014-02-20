@@ -1,0 +1,1355 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"profil",
+				"profile_plot"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"gr",
+				"grid_N"
+			],
+			[
+				"JD",
+				"JDAY"
+			],
+			[
+				"plo",
+				"plot_data"
+			],
+			[
+				"plot_d",
+				"plot_data"
+			],
+			[
+				"le",
+				"legend"
+			],
+			[
+				"dr",
+				"darkgrid"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"plt",
+				"plot_data"
+			],
+			[
+				"int",
+				"int_dic"
+			],
+			[
+				"in",
+				"intensities"
+			],
+			[
+				"clean",
+				"cleaned"
+			],
+			[
+				"pltda",
+				"pltdays"
+			],
+			[
+				"set",
+				"set_xlabel"
+			],
+			[
+				"prop",
+				"property	New Property"
+			],
+			[
+				"da",
+				"datecol"
+			],
+			[
+				"Use",
+				"usecomma"
+			],
+			[
+				"t",
+				"ts2"
+			],
+			[
+				"stat",
+				"stats_str"
+			],
+			[
+				"S",
+				"StatData"
+			],
+			[
+				"_d",
+				"_date"
+			],
+			[
+				"_r",
+				"_raw_data"
+			],
+			[
+				"ts",
+				"ts1"
+			],
+			[
+				"Flo",
+				"Flow74"
+			],
+			[
+				"column",
+				"columns"
+			],
+			[
+				"Tem",
+				"Temp30"
+			],
+			[
+				"writ",
+				"writer_data"
+			],
+			[
+				"Seg",
+				"Seg_73"
+			],
+			[
+				"wri",
+				"writer_data"
+			],
+			[
+				"seg",
+				"seg_num"
+			],
+			[
+				"pa",
+				"paramunit"
+			],
+			[
+				"line",
+				"linestyle"
+			],
+			[
+				"plot",
+				"plotfrmtr"
+			],
+			[
+				"Res",
+				"reservoir"
+			],
+			[
+				"Y",
+				"Y_obs"
+			],
+			[
+				"Y_",
+				"Y_obs"
+			],
+			[
+				"mean",
+				"mean_squared_error"
+			],
+			[
+				"bw",
+				"bw1c"
+			],
+			[
+				"Com",
+				"comb_grouped"
+			],
+			[
+				"com",
+				"comb_grouped"
+			],
+			[
+				"PT",
+				"PT_grouped"
+			],
+			[
+				"pt",
+				"PT_grouped"
+			],
+			[
+				"comb",
+				"combined_calcs"
+			],
+			[
+				"pvo",
+				"pivotlist"
+			],
+			[
+				"T",
+				"TSS_mg"
+			],
+			[
+				"E",
+				"E_Coli_c"
+			],
+			[
+				"data",
+				"dataframe"
+			],
+			[
+				"ou",
+				"outfalls"
+			],
+			[
+				"out",
+				"outfall_1"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"not",
+				"notch"
+			],
+			[
+				"outf",
+				"outfall_1"
+			],
+			[
+				"Pre",
+				"Priestley-Taylor"
+			],
+			[
+				"evap",
+				"evap_rate"
+			],
+			[
+				"dim",
+				"dimensions_dict"
+			],
+			[
+				"C",
+				"Comb"
+			],
+			[
+				"eva",
+				"evap_rate"
+			],
+			[
+				"Data",
+				"DataFrame"
+			],
+			[
+				"get",
+				"get_level_values"
+			],
+			[
+				"ty",
+				"type1"
+			],
+			[
+				"ma",
+				"mannwhitney_p"
+			],
+			[
+				"Get",
+				"Getsimilar"
+			],
+			[
+				"dat",
+				"dataframe"
+			],
+			[
+				"cons",
+				"const_list"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"Mww",
+				"MWW_test"
+			],
+			[
+				"D",
+				"DataFrame"
+			],
+			[
+				"MWW",
+				"MWW_frame"
+			],
+			[
+				"de",
+				"definition"
+			],
+			[
+				"Out",
+				"Outfall_2"
+			],
+			[
+				"similar_",
+				"similar_y"
+			],
+			[
+				"Sp",
+				"SP1C1N"
+			],
+			[
+				"ec",
+				"except"
+			],
+			[
+				"Cl",
+				"CleanND"
+			],
+			[
+				"Va",
+				"VALUE_Q"
+			],
+			[
+				"V",
+				"VALUE_Q"
+			],
+			[
+				"num",
+				"num_ex"
+			],
+			[
+				"mww",
+				"MWW_test"
+			],
+			[
+				"Mw",
+				"MWW_test"
+			],
+			[
+				"bas",
+				"basins"
+			],
+			[
+				"const",
+				"constituents"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"np",
+				"npdata"
+			],
+			[
+				"coun",
+				"count"
+			],
+			[
+				"skip",
+				"skiprows"
+			],
+			[
+				"obs",
+				"observed_exceedance"
+			],
+			[
+				"G",
+				"Glad_net"
+			],
+			[
+				"Time",
+				"Time"
+			],
+			[
+				"sol",
+				"solrad_data"
+			],
+			[
+				"temp",
+				"temp_c"
+			],
+			[
+				"P",
+				"PriestleyTaylor"
+			],
+			[
+				"fo",
+				"fogo"
+			],
+			[
+				"E_",
+				"E_r_series"
+			],
+			[
+				"parse",
+				"parse_date"
+			],
+			[
+				"DA",
+				"DATETIME"
+			],
+			[
+				"flo",
+				"flow_type"
+			],
+			[
+				"imp",
+				"imprv"
+			],
+			[
+				"vol",
+				"volume"
+			],
+			[
+				"stor",
+				"storStart"
+			],
+			[
+				"k",
+				"Ksat"
+			],
+			[
+				"suc",
+				"SuctionHead"
+			],
+			[
+				"catch",
+				"catchSlope"
+			],
+			[
+				"IN",
+				"InitalDef"
+			],
+			[
+				"Su",
+				"SuctionHead"
+			],
+			[
+				"Ks",
+				"Ksat"
+			],
+			[
+				"In",
+				"InitalDef"
+			],
+			[
+				"Ksa",
+				"KsatList"
+			],
+			[
+				"Int",
+				"Integer"
+			],
+			[
+				"catchs",
+				"catchSlopeList"
+			],
+			[
+				"Al",
+				"Alkalinity"
+			],
+			[
+				"Nit",
+				"Nitrate"
+			],
+			[
+				"Ch",
+				"Chlorophyll"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"tual",
+				"Tual"
+			],
+			[
+				"Date",
+				"DATE"
+			],
+			[
+				"Tu",
+				"Tual"
+			],
+			[
+				"Tua",
+				"Tual_frame"
+			],
+			[
+				"file",
+				"file_to_string"
+			],
+			[
+				"bmp",
+				"bmp_d"
+			],
+			[
+				"lab",
+				"label"
+			],
+			[
+				"labe",
+				"label_list"
+			],
+			[
+				"wi",
+				"with_kc"
+			],
+			[
+				"Wih",
+				"Withdrawal"
+			],
+			[
+				"wei",
+				"weir_18_55"
+			],
+			[
+				"with",
+				"without_kc"
+			],
+			[
+				"Pl",
+				"Plot_comp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Model/Types_test.py",
+			"settings":
+			{
+				"buffer_size": 25478,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Model/Types.py",
+			"settings":
+			{
+				"buffer_size": 25051,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Model/Get_Model.py",
+			"settings":
+			{
+				"buffer_size": 2129,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"pythp",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"set sy py",
+				"Set Syntax: Python"
+			],
+			[
+				"matl",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"set s py",
+				"Set Syntax: Python"
+			],
+			[
+				"set sy mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"vbs",
+				"Set Syntax: VBScript"
+			],
+			[
+				"for",
+				"Set Syntax: MinimalFortran"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"python ",
+				"Set Syntax: Python"
+			],
+			[
+				"syn vbs",
+				"Set Syntax: VBScript"
+			],
+			[
+				"vb",
+				"Set Syntax: VBScript"
+			],
+			[
+				"set sy vb",
+				"Set Syntax: VBScript"
+			],
+			[
+				"set s vb",
+				"Set Syntax: VBScript"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"set sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"PYTHON",
+				"Set Syntax: Python"
+			],
+			[
+				"set s pl",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"synt pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"syn pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"syn pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			],
+			[
+				"synt c",
+				"Set Syntax: C#"
+			],
+			[
+				"syn for",
+				"Set Syntax: MinimalFortran"
+			],
+			[
+				"syn c",
+				"Set Syntax: C#"
+			],
+			[
+				"mako",
+				"Set Syntax: HTML (Mako)"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"syn ",
+				"Set Syntax: SQL"
+			],
+			[
+				"sy p",
+				"Set Syntax: Python"
+			],
+			[
+				"syn",
+				"Set Syntax: ASP"
+			],
+			[
+				"syn as",
+				"Set Syntax: ASP"
+			],
+			[
+				"pyh",
+				"Set Syntax: Python"
+			],
+			[
+				"mak",
+				"Set Syntax: HTML (Mako)"
+			],
+			[
+				"late",
+				"LaTeXing: Open User Preferences"
+			],
+			[
+				"latex",
+				"LaTeXing: Open Default Preferences"
+			],
+			[
+				"sy py",
+				"Set Syntax: Python"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fort",
+				"Set Syntax: MinimalFortran"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pach			",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			]
+		],
+		"width": 503.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"//Portland-01/Data/Clients/NCHRP/Projects/PNW0142_NCHRP_25-40_Long-TermBMP/Spreadsheets and Data/Paired Data (output)/NCHRP 25-40 - Paired Analysis.html",
+		"/P/Clients/Hillsboro_City_of/Projects/PNW0179_BRJOC-WRServices/Data/Modified Data/Task_2/profile_plots_cnx_test.py",
+		"/C/Users/lnguyen/Documents/GitHub/pyQUAL-W2/Model/Types.py",
+		"/C/Users/lnguyen/Documents/GitHub/pyQUAL-W2/Model/Get_Model.py",
+		"/C/Users/lnguyen/Documents/GitHub/bmp-database-reports/src/cvc/summary.py",
+		"/C/Users/lnguyen/Documents/GitHub/bmp-database-reports/src/core/features.py",
+		"/P/GIS/Projects/Big Kahuna/ModifiedData/SBPAT_Database/Results/20090826_Iterations/75%/modelInput.xml",
+		"/P/Clients/Everett_City_of/Projects/City of Everett/PNW0144_LakeChaplainModeling_2012/Model Work/Water Quality/modeldata_2013/Post_processing/plot_10year.py",
+		"/P/Clients/Everett_City_of/Projects/City of Everett/PNW0144_LakeChaplainModeling_2012/Model Work/Water Quality/modeldata_2013/Post_processing/plots/Scenarios/Appendix_C.lof",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/FirCreek_2011_Q.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/MainStem_2011_T.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/NorthFork_2011_Q.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/FirCreek_2011_T.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/MainStem_2011_Q.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/NorthFork_2011_T.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/SouthFork_2011_T.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/SouthFork_2011_Q.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/FirCreek_2011_Q.prn",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/NorthFork_2011_T.prn",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/MainStem_2011_Q.prn",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/FirCreek_2011_T.prn",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/SouthFork_2011_T.prn",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/SouthFork_2011_Q.prn",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/MainStem_2011_T.prn",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_04_ModelDevelopment/Input_files/NorthFork_2011_Q.prn",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/CampCreekT.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/bth_res2b.npt",
+		"/C/Nguyen_et_al/Wind_Trials/New_met/met_1c_summer.npt",
+		"/P/Clients/Everett_City_of/Projects/City of Everett/PNW0144_LakeChaplainModeling_2012/Model Work/Water Quality/modeldata_2013/Post_processing/plot_WQ.py",
+		"/P/Clients/Everett_City_of/Projects/City of Everett/PNW0144_LakeChaplainModeling_2012/Model Work/Water Quality/modeldata_2013/Post_processing/profiles_2009.dat",
+		"/P/Clients/Hillsboro_City_of/Projects/PNW0179_BRJOC-WRServices/Data/Modified Data/Task_2/get_tual.py",
+		"/P/Clients/Hillsboro_City_of/Projects/PNW0179_BRJOC-WRServices/Analyses_Technical/Task03/barney task3.py",
+		"/C/Users/lnguyen/Desktop/ReadMe_Scott.txt",
+		"//Portland-01/Data/Clients/NCHRP/Projects/PNW0142_NCHRP_25-40_Long-TermBMP/Spreadsheets and Data/Highway Runoff Databases/AADT_recompute/README.txt",
+		"/P/Clients/NCHRP/Projects/PNW0142_NCHRP_25-40_Long-TermBMP/Spreadsheets and Data/Highway Runoff Databases/AADT_recompute/README.txt",
+		"/C/Users/lnguyen/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/JLJEXSD9/pyQUAL.html",
+		"/P/Users/Lucas/NCHRP 25-41 files for Lucas/Regulations.txt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Python/BullRun.py",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_05_ModelConversion/2001/Version_3.71/2001_Model/two_30.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_05_ModelConversion/2001/Version_3.71/2001_Model/two_74.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_05_ModelConversion/2001/Version_3.71/2001_Model/qwo_74.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_05_ModelConversion/2001/Version_3.71/2001_Model/qwo_30.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Task_05_ModelConversion/2001/Version_3.71/2001_Model/spr2.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/w2_con.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/tsr_19.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/spr2.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/two_74.opt",
+		"/H/pyQual/tsr_19.opt",
+		"/H/pyQual/spr2.opt",
+		"/H/pyQual/pyQUAL.html",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/14139000.txt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/Reservoir_2.prn",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/Reservoir_1.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/Reservoir_2.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/Reservoir_1.prn",
+		"//Portland-01/Data/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/14139000.txt",
+		"//Portland-01/Data/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/14139900.txt",
+		"//Portland-01/Data/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/Reservoir_2.npt",
+		"//Portland-01/Data/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/Reservoir_1.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/Res2.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/qwbR1_7.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/Res1.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/Res1.prn",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/tsr_19.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/qwbr2_new02_7.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Modified_Data/Reservoir Data/14139900.txt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Original_Data/Client/Reservoir Data/14139000.txt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Original_Data/Client/Reservoir Data/14139900.txt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/spr2.opt",
+		"/C/Users/lnguyen/Documents/GitHub/bmp-database-reports/src/cvc/external.py",
+		"/C/Users/lnguyen/Documents/GitHub/bmp-database-reports/src/cvc/dataAccess.py",
+		"/P/Clients/NCHRP/Projects/PNW0161_NCHRP 25-42 Bridge SW Runoff Analysis/Spreadsheets and Data/BMP Evaluation Tools/Tools/17-Dec-2013/17-Dec-2013_Notes.txt",
+		"/P/Clients/NCHRP/Projects/PNW0161_NCHRP 25-42 Bridge SW Runoff Analysis/Spreadsheets and Data/BMP Evaluation Tools/Tools/17-Dec-2013/13-Dec-2013_Notes.txt",
+		"/P/Clients/NCHRP/Projects/PNW0142_NCHRP_25-40_Long-TermBMP/Spreadsheets and Data/Paired Data (output)/NCHRP 25-40 - Paired Analysis.html",
+		"/C/Users/lnguyen/Desktop/120101 Lake Mead script.R",
+		"/H/Brentwood/NSE.py",
+		"//Portland-01/Data/Clients/NCHRP/Projects/PNW0161_NCHRP 25-42 Bridge SW Runoff Analysis/Spreadsheets and Data/BMP Evaluation Tools/Tools/13-Dec-2013/13-Dec-2013_Notes.txt",
+		"/H/Python/Convert.py",
+		"/C/Users/lnguyen/Documents/GitHub/bmp-database-reports/src/bmp/dataAccess.py",
+		"//Portland-01/Data/Clients/Water_Environment_Research_Federation/Projects/BW0108D_BMP_Database_2012/Individual Summary Workflow/Indiv_PDFs/WQ/bmpStat1/bmpStat1/bmpStat.py",
+		"/H/stuff for paul/CA_Analysis.html",
+		"/C/Users/lnguyen/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/JLJEXSD9/CA_Analysis.html",
+		"/C/Users/lnguyen/AppData/Local/Temp/47.html",
+		"/P/Clients/NCHRP/Projects/PNW0161_NCHRP 25-42 Bridge SW Runoff Analysis/Spreadsheets and Data/BMP Evaluation Tools/Tools/13-Dec-2013/11-12-2013_Notes.txt",
+		"//Portland-01/Data/Clients/NCHRP/Projects/PNW0142_NCHRP_25-40_Long-TermBMP/Spreadsheets and Data/Highway Runoff Databases/AADT_recompute/NCHRP 25-40 AADT means and confidence.ipynb",
+		"/P/Clients/Clean_Water_Services/Projects/PNW0175_ButternutCreekOptiRTC/SWMM/Output_files/BOTH/Plots.py",
+		"/P/Clients/NCHRP/Projects/PNW0182_NCHRP_25-25(85)_Nutrient_Management/Analyses_Technical/FHWA-NSQD AADT Analysis/README.txt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/spr1.opt",
+		"//portland-01/data/Clients/NCHRP/Projects/PNW0161_NCHRP 25-42 Bridge SW Runoff Analysis/Spreadsheets and Data/BMP Evaluation Tools/Tools/LN_new/Complete/11-12-2013_Notes.txt",
+		"//portland-01/data/Clients/NCHRP/Projects/PNW0161_NCHRP 25-42 Bridge SW Runoff Analysis/Spreadsheets and Data/BMP Evaluation Tools/Tools/LN_new/10-12-2013_Notes.txt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/two_30.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/qwo_74.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/qwo_30.opt",
+		"/C/Users/lnguyen/Documents/GitHub/bmp-database-reports/src/core/__init__.py",
+		"/C/Users/lnguyen/Documents/GitHub/bmp-database-reports/src/core/events.py",
+		"/C/Users/lnguyen/Documents/GitHub/pyQUAL-W2/LICENSE",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Data/Original_Data/Client/BullRunW2ModelFromPortlandWaterBureau1_29_06/Res Model 2001 - March 04 PSU Calibration - 2005 Run/ph1q_new24.txt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/w2_con.npt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/two_30.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/Model_output_111513/spr2.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/Model_output_111513/tsr_4.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2005_Model/Model_output_112013/spr2.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2001_Model/Model_output_111513/spr1.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/qwo_74.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/qwo_30.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/12-3-2013/qwo_30.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/12-3-2013/two_30.opt",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/2005_Model/w2_con.npt",
+		"//portland-01/data/Clients/NCHRP/Projects/PNW0142_NCHRP_25-40_Long-TermBMP/Spreadsheets and Data/Paired Data (output)/NCHRP 25-40 - Paired Analysis.html",
+		"/P/Clients/Hillsboro_City_of/Projects/PNW0179_BRJOC-WRServices/Data/Modified Data/Task_5/Calcs.py",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Geosyntec_Models/Run_007/pre.err",
+		"/P/Clients/Portland_City_of/Projects/PNW0191_PWB_Bull_Run_Dam_2_Improvements/Analyses_Technical/Python/Notes_with_Rob.txt",
+		"//Portland-01/Data/Clients/Port_of_Portland/Projects/PNW0164_Port of Portland SWMP/Python_tools/Load_percentile_exctraction/extract.py",
+		"/P/Clients/Hillsboro_City_of/Projects/PNW0179_BRJOC-WRServices/Data/Modified Data/Task_3/USGS/Station_14203500_instananteous_flow.txt",
+		"/P/Clients/Hillsboro_City_of/Projects/PNW0179_BRJOC-WRServices/Data/Modified Data/remaining items.txt",
+		"/C/Users/lnguyen/Desktop/Station_14202510_instananteous_flow.txt",
+		"/C/Users/lnguyen/Desktop/Station_14202450_instananteous_flow.txt",
+		"/C/Users/lnguyen/Desktop/http%3a%2f%2fmirrors.kernel.org%2fsourceware%2fcygwin%2f/setup.ini",
+		"/C/Users/lnguyen/Documents/GitHub/bmp-database-reports/src/utils/figutils.py",
+		"/C/Users/lnguyen/Documents/GitHub/bmp-database-reports/src/utils/bootstrap.py",
+		"/C/Users/lnguyen/Documents/GitHub/bmp-database-reports/src/utils/ros.py",
+		"/H/butternut creek",
+		"/C/Nguyen_et_al/wind_20132511.m",
+		"/C/Nguyen_et_al/Wind_Trials/out.txt",
+		"/C/Nguyen_et_al/wind_20132411.m",
+		"/C/Nguyen_et_al/Wind_Trials/mat_text.txt",
+		"//Portland-01/Data/Clients/Port_of_Portland/Projects/PNW0114_OnCall_Contract_2011-2013/Phase_14_Representative_Outfalls/Analyses_Technical/MWW_test.py",
+		"//Portland-01/Data/Clients/Port_of_Portland/Projects/PNW0164_Port of Portland SWMP/Python_tools/T4_plot.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"grids",
+			"gr",
+			"set_xlim",
+			"lim",
+			"wqcomparisons",
+			"_make_time_series",
+			"figutils",
+			"plotfxn",
+			"addNote",
+			"GS",
+			"mega",
+			"Seg_73",
+			"Elevation",
+			"Julian_day",
+			"test",
+			"Adapted",
+			"Impervious",
+			"Acre",
+			"$",
+			"Adapted",
+			"self",
+			")\n",
+			"set_xticklabels",
+			"rotation",
+			"set_xticklabels",
+			"n",
+			"t",
+			"AnchoredText",
+			"legend",
+			"seaborn",
+			"column",
+			"height",
+			"column",
+			"1921 ",
+			"z_",
+			".2",
+			"figshape",
+			"share",
+			"	",
+			"fromdb",
+			"redef",
+			"import",
+			"\\",
+			"sharex",
+			"sharey",
+			"_raw_data",
+			"\\n",
+			"{}",
+			"{}\\",
+			" ",
+			"None",
+			"markersize",
+			"alp",
+			"-",
+			"_N",
+			"mdates",
+			"matplotlib",
+			"mpl",
+			"ticker",
+			"mticker",
+			"os",
+			"itertools",
+			"cycle",
+			"argv",
+			"=",
+			"	 ",
+			"}",
+			"_mean_boostrap",
+			"conf",
+			"bin",
+			"print",
+			"StatData[",
+			"print",
+			"_name",
+			"name",
+			"_raw_data",
+			"\\",
+			".N",
+			"_N",
+			"mse",
+			"_min",
+			"	",
+			"parameter",
+			"series",
+			"stype",
+			"type",
+			"Series",
+			"dataframe",
+			"_median_boostrap",
+			"Parameter",
+			"parameter",
+			"Parameter",
+			"parameter",
+			"Parameter",
+			"day",
+			"\\",
+			"axhline",
+			"title",
+			"set_ylim",
+			"title",
+			"NGVD88",
+			".",
+			"{0} ft",
+			"RMSE",
+			"format",
+			"tsr19_2005",
+			"title",
+			"date",
+			"Y_sim",
+			"legend",
+			"Elev",
+			".",
+			"\n",
+			".",
+			",",
+			"spr",
+			"invert_yaxis",
+			"axis",
+			"xs(loca)",
+			"plotfrmtr",
+			"inter",
+			"xs(loca)",
+			"value",
+			"depth",
+			"Depth",
+			"depth",
+			"Depth",
+			"depth"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			",",
+			"/",
+			"",
+			"/",
+			"','",
+			"/",
+			" ",
+			"",
+			"/",
+			"1",
+			"/",
+			"\n/",
+			"\n",
+			"",
+			",\n",
+			", ",
+			"	",
+			"/",
+			"28.7",
+			"/",
+			"counter_4",
+			"observed_exceedance",
+			"'b'",
+			"test",
+			"silica",
+			"p_data.xs(var).xs(loca).xs(dat)",
+			"	",
+			"_",
+			"	",
+			">o^+*xD81p",
+			"add_subplot(1,2,1)",
+			"sort_index(axis=0, by=['Time','depth'])",
+			"ax.legend(loc = 'best', fontsize=9)",
+			"ax.invert_yaxis()",
+			".sort_index(axis=0, by='depth')",
+			"sort_index(axis=0, by='depth')",
+			" ",
+			"scogg['Date']",
+			"scogg['Scoggins']",
+			"barney['Date']",
+			"barney['Tualatin']",
+			"ylim",
+			"set_xlim",
+			"/",
+			"Trial 22",
+			"Trial 21",
+			"Trial 20",
+			"Trial 19",
+			"Trial 18",
+			"Trial 17",
+			"Trial 16",
+			"Trial 15",
+			"Trial 14",
+			"Trial 13",
+			"Trial 12",
+			"Trial 11",
+			"Trial 10",
+			"Trial 9",
+			"Trial 8",
+			"Trial 7",
+			"Trial 6",
+			"Trial 5",
+			"Trial 4",
+			"Trial 3",
+			"Trial 2",
+			"Trial 1",
+			"IF NODE J4",
+			" ",
+			"",
+			"Trial 22",
+			"Trial 21",
+			"Trial 20",
+			"Trial 19",
+			"Trial 18",
+			"Trial 17",
+			"Trial 16",
+			"Trial 15",
+			"Trial 14",
+			"Trial 13",
+			"Trial 12",
+			"Trial 11",
+			"Trial 10",
+			"Trial 9",
+			"Trial 8",
+			"Trial 7",
+			"Trial 6",
+			"Trial 5",
+			"Trial 4",
+			"Trial 3",
+			"Trial 2",
+			"",
+			"/",
+			"",
+			"6887E5",
+			"TSS, mg/L",
+			"Total_suspended_Solids",
+			"5])",
+			"Seg",
+			"seg",
+			"fig.tight_layout(rect = (0,0,1,.95))",
+			"Total Kheldahl Nitrogen",
+			"Total_Kheldahl_Nitrogen",
+			"[0,1]",
+			"Total Nitrogen",
+			"nitrogen",
+			"y.day",
+			"\"%s/%s/%s\" %(y.year, y.month, y/day)",
+			"('Algae, mg/L', fontsize = 9)",
+			"('NH4, mg/L', fontsize = 9)",
+			"('Total Phosphorus, mg/L', fontsize = 9)",
+			"('PO4, mg/L', fontsize = 9)",
+			"('NO3, mg/L', fontsize = 9)",
+			"('Chlorophyll a, mg/L', fontsize = 9)",
+			"('Conductance, mg/L', fontsize = 9)",
+			"('Temperature, (C)', fontsize = 9)",
+			"('Dissolved Oxygen, mg/L', fontsize = 9)",
+			"('pH, Standard Units', fontsize = 9)",
+			"df",
+			".5,",
+			".5, ",
+			", ",
+			"\"12/16/2010\"",
+			"\"10/14/2010\"",
+			"\"9/15/2010\"",
+			"\"8/3/2010\"",
+			"\"7/6/2010\"",
+			"\"6/8/2010\"",
+			"\"5/11/2010\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Model/Types_test.py",
+					"settings":
+					{
+						"buffer_size": 25478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23227,
+								23214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 9173.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Model/Types.py",
+					"settings":
+					{
+						"buffer_size": 25051,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20116,
+								19533
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8060.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "Model/Get_Model.py",
+					"settings":
+					{
+						"buffer_size": 2129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								403,
+								403
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.6546875,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 78.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
