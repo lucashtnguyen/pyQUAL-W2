@@ -31,7 +31,7 @@ def Get_spr(file_path, elev_cols=3, Date=[1996, 1, 1]):
     Returns pandas dataframe
     '''
     spr = pandas.read_table('{0}'.format(file_path), na_values = 'm', delim_whitespace = True)
-    
+    spr = spr.drop('Unnamed: 0', axis=1)
     for r in range(1,elev_cols + 1, 1):
         spr = spr.drop('Elevation.{0}'.format(r), axis=1)
     
@@ -46,7 +46,7 @@ def Get_tsr(file_path, Date=[1996, 1, 1]):
     Returns pandas dataframe
     '''
     tsr = pandas.read_table('{0}'.format(file_path), delim_whitespace = True, skiprows = 11)
-
+    tsr = tsr.drop('Unnamed: 0', axis=1)
     if Date is not None:
         tsr['Date'] = Julian2Date(tsr['JDAY'], Date[0], Date[1], Date[2])
 
